@@ -1,0 +1,40 @@
+
+
+body, html {
+
+    height: 100%;
+    margin-left: 1%;
+    margin-top : 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: wheat;
+}
+
+#chatArea{
+    padding-left: 1%;
+    padding-right: 1%;
+    left: 5%;
+    width:90%;
+    font-size: larger;
+    background: whitesmoke;
+}
+
+/*#sendComponents{*/
+/*    bottom: 5%;*/
+/*    position: fixed;*/
+/*}*/
+
+#back{
+    right:2%;
+    top:3%;
+    position: fixed;
+}
+
+#chatText{
+    bottom: 2%;
+    left:1%;
+}
+
+#sendMsg{
+    bottom: 2%;
+    right:1%;
+}
